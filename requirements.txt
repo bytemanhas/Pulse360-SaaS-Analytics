@@ -1,0 +1,43 @@
+# Data Manipulation
+pandas>=2.2.0
+numpy>=2.0.0
+
+# Data Visualization
+matplotlib>=3.9.0
+seaborn>=0.13.0
+
+# API Integration
+requests>=2.32.0
+
+# Database
+sqlalchemy>=2.0.0
+mysql-connector-python>=9.0.0
+
+# Data Generation
+faker>=37.0.0
+
+# Excel Support
+openpyxl>=3.1.0
+
+# Jupyter Environment
+jupyter>=1.1.0
+notebook>=7.0.0
+ipykernel>=6.29.0
+
+# Optional Interactive Widgets
+ipywidgets>=8.1.0
+
+# Progress Bars
+tqdm>=4.67.0
+
+# Date & Time Handling
+python-dateutil>=2.9.0
+
+# Environment Variables (recommended for API keys)
+python-dotenv>=1.0.1
+
+# HTTP Client
+urllib3>=2.2.0
+
+# JSON Handling (used by requests, included with Python but listed for completeness)
+simplejson>=3.20.0
